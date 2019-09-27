@@ -5,6 +5,8 @@ presentation series since 2012.
 
 Hyperlinked titles point to PDF slide decks hosted within this git repository.
 
+* Bob McNaughton — [Go for C++ Developers](slides/2019-09-25.pdf)
+    — [2019-09-25](https://www.meetup.com/nyccpp/events/263895320/)
 * Zoltan Juhasz — [User-Space Network Stacks on Linux](slides/2019-06-04.pdf)
     — [2019-06-04](https://www.meetup.com/nyccpp/events/261679263/)
 * JeanHeyd Meneide — [The Plan for the Future: Extension Points in C++ Applications](slides/2019-04-25.pdf)
