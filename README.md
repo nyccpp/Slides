@@ -5,6 +5,10 @@ presentation series since 2012.
 
 Hyperlinked titles point to PDF slide decks hosted within this git repository.
 
+* Arthur O'Dwyer — [Back to Basics: Smart Pointers](slides/2019-11-20.pdf)
+    — [2019-11-20](https://www.meetup.com/nyccpp/events/266413205/)
+* Alisdair Meredith — (Some?) of What's New in C++2a
+    — [2019-10-24](https://www.meetup.com/nyccpp/events/265587644/)
 * Bob McNaughton — [Go for C++ Developers](slides/2019-09-25.pdf)
     — [2019-09-25](https://www.meetup.com/nyccpp/events/263895320/)
 * Zoltan Juhasz — [User-Space Network Stacks on Linux](slides/2019-06-04.pdf)
